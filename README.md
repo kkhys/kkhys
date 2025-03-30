@@ -81,8 +81,8 @@ Mac                      71 hrs 18 mins      ███████████�
   <summary> <samp>now playing</samp></summary>
   
   <br>
- 
- [![🐟](https://spotify-github-profile.vercel.app/api/view?uid=31ryofms4dnv7mrohhepo4c4zgqu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ryofms4dnv7mrohhepo4c4zgqu)
+
+ [![🐟](https://spotify-github-profile.kittinanx.com/api/view?uid=31bo5yuxjgmecenqavrcmndnpt2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=58c454)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bo5yuxjgmecenqavrcmndnpt2m&redirect=true)
   
   ***
 </details>
