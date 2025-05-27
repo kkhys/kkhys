@@ -14,13 +14,13 @@
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C641%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C648%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,287 Contributions in the Year 2025
+> 🏆 1,288 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -28,50 +28,8 @@
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                12730 commits       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌆 Daytime                9752 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-🌃 Evening                21420 commits       ███████████░░░░░░░░░░░░░░   45.38 % 
-🌙 Night                  3297 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   5179 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  6163 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Wednesday                6007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Thursday                 6875 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   6707 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 7527 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Sunday                   8741 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    30 hrs 49 mins      ███████████████░░░░░░░░░░   61.67 % 
-Astro                    6 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-CSS                      6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-TypeScript               4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Java                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-
-🔥 Editors: 
-Chrome                   36 hrs 9 mins       ██████████████████░░░░░░░   72.33 % 
-WebStorm                 13 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-IntelliJ IDEA            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-
-💻 Operating System: 
-Mac                      49 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2025/05/26 19:01:01 UTC
+ Last Updated on 2025/05/27 19:05:19 UTC
 <!--END_SECTION:waka-->
   
   ***
