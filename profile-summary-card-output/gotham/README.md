@@ -15,20 +15,30 @@
 ### Each card usage
 ---
 
-![](./2-most-commit-language.svg)
+![](./0-profile-details.svg)
 
 ```
-![](https://raw.githubusercontent.com/kkhys/kkhys/main/profile-summary-card-output/gotham/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/kkhys/kkhys/main/profile-summary-card-output/gotham/0-profile-details.svg)
 ```
 
     
 
 ---
 
-![](./3-stats.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/kkhys/kkhys/main/profile-summary-card-output/gotham/3-stats.svg)
+![](https://raw.githubusercontent.com/kkhys/kkhys/main/profile-summary-card-output/gotham/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/kkhys/kkhys/main/profile-summary-card-output/gotham/2-most-commit-language.svg)
 ```
 
     
