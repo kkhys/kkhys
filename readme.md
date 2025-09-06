@@ -17,7 +17,7 @@
   </summary>
   <br>
 
-  [![🐠](https://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)](https://git.io/streak-stats)
+  [![🐠](https://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </details>
 
 <details>
