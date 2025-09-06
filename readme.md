@@ -1,5 +1,15 @@
 <details>
   <summary>
+    <samp>WakaTime stats</samp>
+  </summary>
+  <br>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+<details>
+  <summary>
     <samp>now playing</samp>
   </summary>
   <br>
