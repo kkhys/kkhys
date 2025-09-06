@@ -4,7 +4,7 @@
   </summary>
   <br>
 
-  [![🐟](https://spotify-github-profile.kittinanx.com/api/view?uid=31bo5yuxjgmecenqavrcmndnpt2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=58c454)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bo5yuxjgmecenqavrcmndnpt2m&redirect=true)
+  [![🐟](https://spotify-github-profile.kittinanx.com/api/view?uid=31bo5yuxjgmecenqavrcmndnpt2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=58c454)](https://github.com/kittinan/spotify-github-profile)
 </details>
 
 <details>
