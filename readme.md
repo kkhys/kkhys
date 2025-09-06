@@ -1,5 +1,14 @@
 <details>
   <summary>
+    <samp>my metrics</samp>
+  </summary>
+  <br>
+
+  ![[🐳](https://github.com/kkhys/kkhys/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+</details>
+
+<details>
+  <summary>
     <samp>WakaTime stats</samp>
   </summary>
   <br>
