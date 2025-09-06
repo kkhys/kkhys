@@ -4,7 +4,7 @@
   </summary>
   <br>
 
-  ![[🐳](https://github.com/kkhys/kkhys/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+  ![🐳](https://github.com/kkhys/kkhys/blob/main/github-metrics.svg)
 </details>
 
 <details>
