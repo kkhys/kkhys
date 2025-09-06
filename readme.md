@@ -3,7 +3,8 @@
     <samp>streak stats</samp>
   </summary>
   <br>
-  [![🐠](http://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)](https://git.io/streak-stats)
+
+  [![🐠](https://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)](https://git.io/streak-stats)
 </details>
 
 <details>
