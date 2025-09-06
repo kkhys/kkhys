@@ -4,7 +4,7 @@
   </summary>
   <br>
 
-  ![🐠](https://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)
+  [![🐠](https://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)](https://git.io/streak-stats)
 </details>
 
 <details>
