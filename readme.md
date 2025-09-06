@@ -1,5 +1,17 @@
 <details>
   <summary>
+    <samp>github readme stats</samp>
+  </summary>
+  <br>
+
+  <div> 
+    <img alt="🐠" src="https://github-readme-stats.vercel.app/api?username=kkhys&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+    <img alt="🐟" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhys&layout=compact&theme=dark&langs_count=10&hide=HTML,CSS,SCSS" />
+  </div>
+</details>
+
+<details>
+  <summary>
     <samp>profile trophies</samp>
   </summary>
   <br>
