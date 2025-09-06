@@ -1,4 +1,4 @@
-name: Waka README
+name: Rewrite WakaTime Metrics
 
 on:
   schedule:
