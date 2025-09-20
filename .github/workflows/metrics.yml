@@ -2,8 +2,8 @@ name: Generate Metrics SVG
 
 on:
   schedule:
-    # Runs at 3am JST
-    - cron: '0 18 * * *'
+    # Runs at 2am JST
+    - cron: '0 17 * * *'
   workflow_dispatch:
 
 jobs:
