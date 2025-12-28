@@ -97,15 +97,6 @@ Mac                      53 hrs              ███████████�
 
 <details>
   <summary>
-    <samp>profile trophies</samp>
-  </summary>
-  <br>
-
-  [![🐬](https://github-profile-trophy.vercel.app/?username=kkhys&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&row=1&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
-
-<details>
-  <summary>
     <samp>summary cards</samp>
   </summary>
   <br>
