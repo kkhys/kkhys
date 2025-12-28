@@ -85,18 +85,6 @@ Mac                      53 hrs              ███████████�
 
 <details>
   <summary>
-    <samp>github readme stats</samp>
-  </summary>
-  <br>
-
-  <div> 
-    <img alt="🐠" src="https://github-readme-stats.vercel.app/api?username=kkhys&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-    <img alt="🐟" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhys&layout=compact&theme=dark&langs_count=10&hide=HTML,CSS,SCSS" />
-  </div>
-</details>
-
-<details>
-  <summary>
     <samp>summary cards</samp>
   </summary>
   <br>
@@ -106,15 +94,6 @@ Mac                      53 hrs              ███████████�
   [![🦭](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkhys&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![🦀](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkhys&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![🦈](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkhys&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</details>
-
-<details>
-  <summary>
-    <samp>streak stats</samp>
-  </summary>
-  <br>
-
-  [![🐠](https://streak-stats.demolab.com/?user=kkhys&theme=dark)](https://git.io/streak-stats)
 </details>
 
 <details>
