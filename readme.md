@@ -114,7 +114,7 @@ Mac                      53 hrs              ███████████�
   </summary>
   <br>
 
-  [![🐠](https://github-readme-streak-stats.herokuapp.com?user=kkhys&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![🐠](https://streak-stats.demolab.com/?user=kkhys&theme=dark)](https://git.io/streak-stats)
 </details>
 
 <details>
