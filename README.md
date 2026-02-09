@@ -86,12 +86,3 @@ Mac                      67 hrs 56 mins      ███████████�
   [![🦀](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkhys&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![🦈](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkhys&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </details>
-
-<details>
-  <summary>
-    <samp>activity graph</samp>
-  </summary>
-  <br>
-
-  [![🐡](https://github-readme-activity-graph.vercel.app/graph?username=kkhys&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
