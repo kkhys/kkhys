@@ -14,13 +14,11 @@
   <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C816%20hrs%2012%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 8.1 MB Used in GitHub's Storage 
  > 
-> 🏆 6,774 Contributions in the Year 2026
+> 🏆 6,812 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,21 +29,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42039 commits       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-🌆 Daytime                67433 commits       ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌃 Evening                59717 commits       █████████░░░░░░░░░░░░░░░░   34.44 % 
-🌙 Night                  4182 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+🌞 Morning                41305 commits       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌆 Daytime                68166 commits       ██████████░░░░░░░░░░░░░░░   39.79 % 
+🌃 Evening                57953 commits       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+🌙 Night                  3882 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   26889 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Tuesday                  30654 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                27266 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 30708 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Friday                   29246 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Saturday                 13939 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Sunday                   14669 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Monday                   26923 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  31251 commits       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Wednesday                27377 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Thursday                 30940 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Friday                   29271 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 12407 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Sunday                   13137 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 
@@ -55,22 +53,22 @@ Sunday                   14669 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    31 hrs 10 mins      ███████████████░░░░░░░░░░   58.08 % 
-TypeScript               13 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Markdown                 4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Nix                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    31 hrs 39 mins      ███████████████░░░░░░░░░░   58.18 % 
+TypeScript               14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Markdown                 4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Nix                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-Chrome                   42 hrs 46 mins      ████████████████████░░░░░   79.68 % 
-Claude Code              10 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Chrome                   41 hrs 3 mins       ███████████████████░░░░░░   75.46 % 
+Claude Code              13 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Zed                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      53 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      54 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/07/23 21:40:01 UTC
+ Last Updated on 2026/07/24 21:37:42 UTC
 <!--END_SECTION:waka-->
 </details>
