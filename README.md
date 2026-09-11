@@ -14,15 +14,15 @@
   <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C896%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C900%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-313%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-316%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
-> 🏆 8,606 Contributions in the Year 2026
+> 🏆 8,640 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,21 +33,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                55904 commits       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-🌆 Daytime                100934 commits      ███████████░░░░░░░░░░░░░░   42.78 % 
-🌃 Evening                75187 commits       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-🌙 Night                  3895 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌞 Morning                56944 commits       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌆 Daytime                100568 commits      ███████████░░░░░░░░░░░░░░   42.06 % 
+🌃 Evening                77313 commits       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+🌙 Night                  4268 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   40559 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Tuesday                  46537 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Wednesday                39381 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Thursday                 43650 commits       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Friday                   42118 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Saturday                 11555 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Sunday                   12120 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Monday                   40474 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Tuesday                  46230 commits       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Wednesday                39361 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Thursday                 43685 commits       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Friday                   42393 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Saturday                 13239 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Sunday                   13711 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 ```
 
 
@@ -57,47 +57,49 @@ Sunday                   12120 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    44 hrs 56 mins      ████████████████░░░░░░░░░   63.37 % 
-JSON                     8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-TypeScript               6 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown                 4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JavaScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    43 hrs 36 mins      ███████████████░░░░░░░░░░   61.48 % 
+JSON                     6 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+TypeScript               5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+YAML                     5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Markdown                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-Chrome                   54 hrs 29 mins      ███████████████████░░░░░░   76.82 % 
-Claude Code              15 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Zed                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Chrome                   55 hrs 43 mins      ████████████████████░░░░░   78.55 % 
+Claude Code              14 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Zed                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      70 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      70 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 11 mins (22.82%)
+⏱ AI Coding Time: 14 hrs 56 mins (21.07%)
 
-✍️ 9,366 lines written by AI, 58 lines written by hand (99.38% AI-written)
+✍️ 12,001 lines written by AI, 58 lines written by hand (99.52% AI-written)
 
-🔤 17,137,995 Input Tokens, 3,312,054 Output Tokens
+🔤 16,397,112 Input Tokens, 3,498,989 Output Tokens
 
-💵 $342.39 Estimated AI Cost This Week
+💵 $352.65 Estimated AI Cost This Week
 
-🧠 182 AI Sessions, 405 AI Prompts
+🧠 169 AI Sessions, 365 AI Prompts
 
-Fable                    6,654 lines         █████████████████░░░░░░░░   69.62 % 
-Opus                     1,943 lines         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Haiku                    668 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Sonnet                   292 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Fable                    9,251 lines         ███████████████████░░░░░░   75.69 % 
+Opus                     1,973 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Haiku                    668 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Sonnet                   292 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+GPT                      39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📚 Verbose Prompter — average 9,419 characters per prompt
+🤖 AI-Driven — 99.52% of written lines came from AI
+📚 Verbose Prompter — average 6,210 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.88% of changed lines were hand-edited
+🚀 High AI Trust — 0.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/09/10 21:47:22 UTC
+ Last Updated on 2026/09/11 21:23:42 UTC
 <!--END_SECTION:waka-->
 </details>
