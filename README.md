@@ -14,7 +14,7 @@
   <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C931%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C933%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2045%20mins-blue?style=flat)
 
@@ -22,7 +22,7 @@
 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
-> 🏆 8,865 Contributions in the Year 2026
+> 🏆 8,875 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,21 +33,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                49126 commits       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-🌆 Daytime                93647 commits       ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                64813 commits       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌙 Night                  3161 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+🌞 Morning                48587 commits       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+🌆 Daytime                92158 commits       ███████████░░░░░░░░░░░░░░   44.39 % 
+🌃 Evening                63744 commits       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌙 Night                  3133 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   37149 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Tuesday                  42682 commits       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Wednesday                36461 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 40258 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Friday                   38462 commits       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Saturday                 7730 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Sunday                   8005 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Monday                   36710 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Tuesday                  42166 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Wednesday                36063 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Thursday                 39826 commits       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Friday                   37840 commits       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Saturday                 7375 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Sunday                   7642 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 
@@ -57,49 +57,49 @@ Sunday                   8005 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    39 hrs 27 mins      █████████████░░░░░░░░░░░░   50.09 % 
-Markdown                 14 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-TypeScript               12 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-YAML                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-JSON                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other                    35 hrs 36 mins      █████████████░░░░░░░░░░░░   53.83 % 
+Markdown                 15 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+TypeScript               5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Python                   3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JSON                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Chrome                   47 hrs 46 mins      ███████████████░░░░░░░░░░   60.65 % 
-Claude Code              30 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   38.56 % 
-Zed                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   41 hrs 33 mins      ████████████████░░░░░░░░░   62.83 % 
+Claude Code              24 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.54 % 
+Zed                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      78 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      66 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 55 mins (39.26%)
+⏱ AI Coding Time: 24 hrs 31 mins (37.08%)
 
-✍️ 15,549 lines written by AI, 58 lines written by hand (99.63% AI-written)
+✍️ 8,933 lines written by AI, 33 lines written by hand (99.63% AI-written)
 
-🔤 31,833,295 Input Tokens, 6,560,457 Output Tokens
+🔤 22,198,332 Input Tokens, 4,652,113 Output Tokens
 
-💵 $777.34 Estimated AI Cost This Week
+💵 $599.19 Estimated AI Cost This Week
 
-🧠 236 AI Sessions, 564 AI Prompts
+🧠 143 AI Sessions, 390 AI Prompts
 
-Fable                    14,701 lines        ███████████████████████░░   90.66 % 
-Opus                     1,475 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-GPT                      39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Fable                    7,403 lines         ████████████████████░░░░░   78.81 % 
+Opus                     1,991 lines         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 6,379 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
+📚 Verbose Prompter — average 4,916 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/09/17 21:20:09 UTC
+ Last Updated on 2026/09/18 21:35:02 UTC
 <!--END_SECTION:waka-->
 </details>
