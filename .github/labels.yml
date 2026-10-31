@@ -1,0 +1,4 @@
+# Inherits the shared base label set (Conventional Commits types,
+# type: bump-version):
+# https://github.com/kkhys/.github/blob/main/.github/labels.yml
+extends: kkhys/.github

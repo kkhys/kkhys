@@ -1,0 +1,36 @@
+name: Sync Labels
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/labels.yml
+      - .github/workflows/sync-labels.yml
+  # Pick up changes to the shared base config (kkhys/.github), which
+  # cannot trigger this workflow on its own.
+  schedule:
+    - cron: "0 18 * * 0" # Mondays 03:00 JST
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  sync:
+    name: Sync Labels
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: kkhys/gh-labeler-actions@a0a81fc9ecec5ee339c4c216ea6ff1b75b94c3fb # v1.0.0
+        with:
+          # Mirror the config exactly; undeclared labels are deleted.
+          prune: true
